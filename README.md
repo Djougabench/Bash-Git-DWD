@@ -39,7 +39,7 @@
 * ajoutez à staging les fichiers modifiés
 `git add fichier1.md fichier2.md`
 
-* prendre un instantané de la zone de transit (tout ce qui a été ajouté)
+* enregistrer les modifications dans votre référentiel
 `git commit -m "mon commit"`
 
 * pousser/ « pusher » les modifications dans github
@@ -61,7 +61,7 @@ Tout d'abord, vous devrez créer un nouveau référentiel sur GitHub comme vu lo
 * git n'est pas au courant du fichier, mettez-le en scène
 `git add README.md`
 
-* prendre un instantané de la zone de transit (tout ce qui a été ajouté)
+* enregistrer les modifications dans votre référentiel
 `git commit -m "add README to initial commit"`
 
 * fournissez le chemin du référentiel que vous avez créé sur github
